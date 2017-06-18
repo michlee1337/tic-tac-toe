@@ -1,0 +1,16 @@
+.board {
+  height: 150px;
+  background-color: black;
+  border: 1px solid #fff;
+}
+
+.board p {
+  text-align: center;
+  color: #fff;
+  font-size: 100px;
+
+}
+
+#board {
+  margin: 30px 30px 30px 30px;
+}
